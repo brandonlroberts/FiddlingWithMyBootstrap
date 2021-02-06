@@ -36,3 +36,4 @@
 /Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Partials/_Navbar.cshtml.g.cs
 /Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
 /Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/obj/Debug/netcoreapp3.1/Razor/Views/Home/Partials/_Carousel.cshtml.g.cs

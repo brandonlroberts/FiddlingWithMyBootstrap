@@ -50,6 +50,7 @@ nav {
   position: fixed;
   width: 100%;
   line-height: 30px;
+  z-index:1;
 }
 
 nav ul {
@@ -66,7 +67,7 @@ nav ul {
 }
 
 nav.black ul {
-  background: #CC0033;
+  background: darkgray;
   /* background: #000; */
 }
 
@@ -125,4 +126,9 @@ nav ul li a {
         display: block;
   }
 
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
 }
