@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/Views/Home/About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/p0s31d0n/Projects/Personal/FiddlingWithMyBootstrap/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
